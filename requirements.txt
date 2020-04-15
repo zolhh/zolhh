@@ -3,4 +3,3 @@ asyncio
 youtube-dl
 PyNaCl
 requests
-libopus0
