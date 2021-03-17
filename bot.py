@@ -306,4 +306,4 @@ async def songs(msg):
             await bot.say("Currently no songs in queue")
 
 
-bot.run('NjE0NTM3NzEwOTQ1Njk3ODE2.Xpb2LQ.0dGV04z8_YbT6s9RrWzOP463mc4')
+bot.run('')
